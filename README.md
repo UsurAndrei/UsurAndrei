@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UsurAndrei
+- 👋 Hi, I’m Andrei Rusu!
 - 👀 I’m interested in Cloud Engineering, System Administration, Network Engineering, Database Administration, Cryptography, Network Security & Android Development
 - 🌱 I’m currently learning anything that sounds interesting
 
