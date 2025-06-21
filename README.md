@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrei Rusu!
-- 👀 I’m interested in Cloud Engineering, System Administration, Network Engineering, Database Administration, Cryptography, Network Security & Android Development
+- 👀 I’m interested in Cloud Engineering, System Administration, Network Engineering, Database Administration, Network Security
 - 🌱 I’m currently learning anything that sounds interesting
 
 <!---
